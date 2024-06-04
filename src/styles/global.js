@@ -17,7 +17,7 @@ export const GlobalStyle = createGlobalStyle`
         background: ${props => props.theme.homeBackgound};
         height: 100svh;
         display: flex;
-        justfy-content: center;
+        justify-content: center;
         align-items: center;
     }
 `
