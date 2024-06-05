@@ -57,7 +57,7 @@ export const IconContainer = styled.div`
     justify-content: center;
     align-items: center;
 
-    margin-buttom: 3rem;
+    margin-bottom: 3rem;
 `
 
 export const ButtomContainer = styled.div`
